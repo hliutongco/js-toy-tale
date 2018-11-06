@@ -32,6 +32,13 @@ body {
   box-shadow: 3px 4px #e04b52
 }
 
+img {
+  position: relative;
+  max-height: 200px;
+  max-width: 200px;
+  justify-self: center;
+}
+
 .toy-avatar {
   justify-self: center;
   height: 12rem;
